@@ -122,5 +122,3 @@ We extend our gratitude to the organizers of FrostHacks for providing this oppor
 [![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ---
-
-*Note: Replace placeholder links and information with actual data as applicable.*
