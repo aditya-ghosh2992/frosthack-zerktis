@@ -119,6 +119,6 @@ We extend our gratitude to the organizers of FrostHacks for providing this oppor
 
 ## Demo Video
 
-[![Watch the Demo](https://youtu.be/vtcKJE6o3-g)
+[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/vtcKJE6o3-g))
 
 ---
